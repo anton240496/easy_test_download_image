@@ -18,6 +18,7 @@ node download-benchmark.js https://example.com/image.jpg
 
 ## Пример запуска и работы кода:
 
+```text
 PS C:\Users\anton\OneDrive\Рабочий стол\easy> node download-benchmark.js https://img.magnific.com/free-psd/majestic-elephant-isolated_23-2151857814.jpg                           
 Запрос 1/10: 200, 0.03 MiB, 372.78 мс
 Запрос 2/10: 200, 0.03 MiB, 203.06 мс
@@ -36,4 +37,5 @@ PS C:\Users\anton\OneDrive\Рабочий стол\easy> node download-benchmark
 Всего скачано: 0.31 MiB
 Общее время: 1.23 с
 Средняя скорость загрузки: 0.25 MiB/s
-PS C:\Users\anton\OneDrive\Рабочий стол\easy> 
+```
+
